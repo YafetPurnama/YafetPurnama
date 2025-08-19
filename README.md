@@ -45,7 +45,7 @@
 
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
-<a href="https://instagram.com/yafetpurnama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yafetpurnama" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/yafet-purnama/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Yafet Purnama" height="30" width="40" /></a>
- <a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - joshuapurnama123@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/yafetpurnama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/yafet-purnama/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+ <a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.png" alt="gmail" height="30" width="40" /></a>
 </p>
