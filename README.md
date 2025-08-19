@@ -10,18 +10,20 @@
   <tr>
     <td valign="top" width="65%">
 
-- 🔭 Saat ini saya sedang mengerjakan **[Projek Freelance]**
-- 🌱 Saat ini saya sedang mendalami **[Go-Lang]**
-- 👯 Saya mencari kolaborasi untuk **[Meningkatkan Kemampuan saya]**
-- 🤔 Saya membutuhkan bantuan terkait **[Ide ide dan pengembangan yang kreatif]**
-- 💬 Tanya saya tentang **React, Next.js, atau Laravel**
-- 📫 Cara menghubungi saya: **joshuapurnama123@gmail.com**
-- ⚡ Fakta menarik: **[Selalu mencoba dan pantang menyerah]**
+<ul>
+  <li>🔭 Saat ini saya sedang mengerjakan <strong>[Projek Freelance]</strong></li>
+  <li>🌱 Saat ini saya sedang mendalami <strong>[Go-Lang]</strong></li>
+  <li>👯 Saya mencari kolaborasi untuk <strong>[Meningkatkan Kemampuan saya]</strong></li>
+  <li>🤔 Saya membutuhkan bantuan terkait <strong>[Ide ide dan pengembangan yang kreatif]</strong></li>
+  <li>💬 Tanya saya tentang <strong>React, Next.js, atau Laravel</strong></li>
+  <li>📫 Cara menghubungi saya: <strong>joshuapurnama123@gmail.com</strong></li>
+  <li>⚡ Fakta menarik: <strong>[Selalu mencoba dan pantang menyerah]</strong></li>
+</ul>
 
     </td>
     <td valign="top" width="35%">
       <p align="center">
-        <img src="img/clock-dribble.gif" alt="Coding GIF" width="100%" />
+        <img src="clock-dribble.gif" alt="Coding GIF" width="100%" />
       </p>
     </td>
   </tr>
@@ -59,5 +61,5 @@
 <p align="left">
 <a href="https://instagram.com/yafetpurnama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yafet-purnama/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" /></a>
 </p>
