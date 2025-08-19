@@ -7,9 +7,8 @@
 <h3 align="center">Full Stack Developer | Web Designer | IT Analyst</h3>
 
 <table>
-  <tr>
-    <td valign="top" width="65%">
-
+<tr>
+<td valign="top" width="65%">
 <ul>
   <li>🔭 Saat ini saya sedang mengerjakan <strong>[Projek Freelance]</strong></li>
   <li>🌱 Saat ini saya sedang mendalami <strong>[Go-Lang]</strong></li>
@@ -19,14 +18,11 @@
   <li>📫 Cara menghubungi saya: <strong>joshuapurnama123@gmail.com</strong></li>
   <li>⚡ Fakta menarik: <strong>[Selalu mencoba dan pantang menyerah]</strong></li>
 </ul>
-
-    </td>
-    <td valign="top" width="35%">
-      <p align="center">
-        <img src="clock-dribble.gif" alt="Coding GIF" width="100%" />
-      </p>
-    </td>
-  </tr>
+</td>
+<td valign="top" width="35%" align="center">
+  <img src="clock-dribble.gif" alt="Coding GIF" width="100%" />
+</td>
+</tr>
 </table>
 
 <br>
