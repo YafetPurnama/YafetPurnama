@@ -2,18 +2,30 @@
   <img src="img/banner-yafet.png" alt="Banner Yafet Purnama" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yafetpurnama&label=Profile%20views&color=0e75b6&style=flat" alt="yafetpurnama" /> </p>
 <h1 align="center">Hi 👋, Saya Yafet Purnama</h1>
 <h3 align="center">Full Stack Developer | Web Designer | IT Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yafetpurnama&label=Profile%20views&color=0e75b6&style=flat" alt="yafetpurnama" /> </p>
+<table>
+  <tr>
+    <td valign="top" width="65%">
 
 - 🔭 Saat ini saya sedang mengerjakan **[Projek Freelance]**
-- 🌱 Saat ini saya sedang mendalami **[Go-Lang ]**
+- 🌱 Saat ini saya sedang mendalami **[Go-Lang]**
 - 👯 Saya mencari kolaborasi untuk **[Meningkatkan Kemampuan saya]**
-- 🤔 Saya membutuhkan bantuan terkait **[Ide ide dan pengembangan yang kreatif ]**
+- 🤔 Saya membutuhkan bantuan terkait **[Ide ide dan pengembangan yang kreatif]**
 - 💬 Tanya saya tentang **React, Next.js, atau Laravel**
 - 📫 Cara menghubungi saya: **joshuapurnama123@gmail.com**
 - ⚡ Fakta menarik: **[Selalu mencoba dan pantang menyerah]**
+
+    </td>
+    <td valign="top" width="35%">
+      <p align="center">
+        <img src="img/clock-dribble.gif" alt="Coding GIF" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -46,6 +58,6 @@
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
 <a href="https://instagram.com/yafetpurnama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/yafet-purnama/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
- <a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.png" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yafet-purnama/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:joshuapurnama123@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
