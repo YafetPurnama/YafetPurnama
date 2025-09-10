@@ -10,6 +10,7 @@
 <tr>
 <td valign="top" width="65%">
 <ul>
+  <li>🙋‍♂️ Semua tentang saya di <a href="https://portfolio-update-yafet.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li>
   <li>🔭 Saat ini saya sedang mengerjakan <strong>[Projek Freelance]</strong></li>
   <li>🌱 Saat ini saya sedang mendalami <strong>[Go-Lang]</strong></li>
   <li>👯 Saya mencari kolaborasi untuk <strong>[Meningkatkan Kemampuan saya]</strong></li>
