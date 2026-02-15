@@ -80,6 +80,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshuapurnama123-5293&show_icons=true&theme=tokyonight" />
   <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" />
+  <br />
   <img src="https://streak-stats.demolab.com?user=yafetpurnama&theme=tokyonight" />
 </div>
 <br>
