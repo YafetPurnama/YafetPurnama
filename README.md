@@ -78,13 +78,24 @@
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuapurnama123-5293&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=joshuapurnama123-5293&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&theme=tokyonight&hide=stars,commits,prs,issues,contribs" />
   <br />
   <img src="https://streak-stats.demolab.com?user=yafetpurnama&theme=tokyonight" />
 </div>
 <br>
+
+<!-- PERCOBAAN -->
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafetpurnama&layout=compact&theme=tokyonight" />
+</div>
 
 ### 🤝 Terhubung dengan Saya
 
