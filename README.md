@@ -15,7 +15,7 @@
 <tr>
 <td valign="top" width="60%">
 
-### 👨‍💻 About Me
+### 👨‍💻 Tentang Saya
 
 <!-- <li>🙋‍♂️ Semua tentang saya di <a href="https://portfolio-update-yafet.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li> -->
 
