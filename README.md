@@ -19,13 +19,13 @@
 
 <!-- <li>🙋‍♂️ Semua tentang saya di <a href="https://portfolio-update-yafet.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li> -->
 
-- 🙋‍♂️ Portofolio: <a href="https://portfolio-yafetpurnama.vercel.app/" target="_blank"><strong>portfolio-yafetpurnama.vercel.app</strong></a>
-- 🔭 Working on: <strong>[Projek Freelance]</strong>
-- 🌱 Learning: <strong>[Go-Lang]</strong> & <strong>[Cybersecurity]</strong>
-- 👯 Looking for collaboration on: <strong>[Open Source Projects]</strong>
-- 💬 Ask me about: <strong>React, Next.js, Laravel</strong>
-- 📫 Contact: <strong>joshuapurnama123@gmail.com</strong>
-- ⚡ Fun fact: <strong>Selalu mencoba dan pantang menyerah</strong>
+- 🙋‍♂️ Semua tentang saya di <a href="https://portfolio-yafetpurnama.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li>
+- 🔭 Saat ini sedang mengerjakan: <strong>[Projek Freelance]</strong>
+- 🌱 Sedang mendalami: <strong>[Go-Lang]</strong> & <strong>[Cybersecurity]</strong>
+- 👯 Terbuka untuk kolaborasi di: <strong>[Proyek Open Source]</strong>
+- 💬 Ajak saya diskusi tentang: <strong>React, Next.js, Laravel</strong>
+- 📫 Hubungi saya di: <strong>joshuapurnama123@gmail.com</strong>
+- ⚡ Fakta menarik: <strong>Selalu mencoba dan pantang menyerah</strong>
 
 </td>
 <td valign="top" width="40%">
@@ -75,20 +75,20 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 Statistik GitHub Saya
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yafet's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&locale=id&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yafet's GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yafetpurnama&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yafet's Streak" />
+    <img src="https://streak-stats.demolab.com?user=yafetpurnama&theme=tokyonight&locale=id&hide_border=true&bg_color=0D1117" alt="Yafet's GitHub Streak" />
   </p>
 </div>
 
 <br>
 
-### 🤝 Connect with Me
+### 🤝 Terhubung dengan Saya
 
 <p align="left">
   <a href="https://instagram.com/yafetpurnama" target="_blank">
