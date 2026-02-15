@@ -78,12 +78,9 @@
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yafetpurnama&show_icons=true&locale=id&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yafet's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=yafetpurnama&theme=tokyonight&locale=id&hide_border=true&bg_color=0D1117" alt="Yafet's GitHub Streak" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yafetpurnama&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=yafetpurnama&theme=tokyonight" />
 </div>
 
 <br>
