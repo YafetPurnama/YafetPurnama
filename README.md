@@ -19,7 +19,7 @@
 
 <!-- <li>🙋‍♂️ Semua tentang saya di <a href="https://portfolio-update-yafet.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li> -->
 
-- 🙋‍♂️ Semua tentang saya di <a href="https://portfolio-yafetpurnama.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li>
+- 🙋‍♂️ Semua tentang saya di <a href="https://yafet-purnama-portofolio.web.id" target="_blank" rel="noopener noreferrer"><strong>Portofolioku</strong></a></li>
 - 🔭 Saat ini sedang mengerjakan: <strong>[Projek Freelance]</strong>
 - 🌱 Sedang mendalami: <strong>[Go-Lang]</strong> & <strong>[Cybersecurity]</strong>
 - 👯 Terbuka untuk kolaborasi di: <strong>[Proyek Open Source]</strong>
